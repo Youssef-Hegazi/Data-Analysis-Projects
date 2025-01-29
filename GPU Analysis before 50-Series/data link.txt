@@ -1,0 +1,1 @@
+https://www.kaggle.com/datasets/mannacharya/historical-gpu-prices-nvidia-and-amd/data?select=gpu_price_history.csv
